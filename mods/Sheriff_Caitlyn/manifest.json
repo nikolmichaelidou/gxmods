@@ -19,5 +19,12 @@
                 "l": 53
             }
         }
+    },
+    "wallpaper": {
+        "dark": {
+            "image": "mods/Sheriff_Caitlyn/wallpaper/wallpaper.jpg",
+            "text_color": "#aa4a91",
+            "text_shadow": "#2f3535"
+        }
     }
 }                    
