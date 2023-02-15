@@ -1,0 +1,10 @@
+{
+    "manifest_version": 1,
+    "name": "Caitlyn Kiramman Vibes",
+    "description": "",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    }
+}    
