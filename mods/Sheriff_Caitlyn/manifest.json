@@ -1,0 +1,23 @@
+{
+    "manifest_version": 1,
+    "name": "Caitlyn Kiramman Vibes",
+    "description": "",
+    "version": "1.0",
+    "icons": {
+        "512": "icon_512.png"
+    },
+    "theme": {
+        "dark": {
+            "gx_accent": {
+                "h": 8217,
+                "s": 34,
+                "l": 35
+            },
+            "gx_secondary_base": {
+                "h": 241,
+                "s": 41,
+                "l": 53
+            }
+        }
+    }
+}                    
