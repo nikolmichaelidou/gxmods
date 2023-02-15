@@ -1,7 +1,7 @@
 {
     "manifest_version": 1,
     "name": "Caitlyn Kiramman Vibes",
-    "description": "",
+    "description": "A Caitlyn Kiramman theme. So far it has a dark theme, with a wallpaper and background music.",
     "version": "1.0",
     "icons": {
         "512": "icon_512.png"
@@ -26,5 +26,8 @@
             "text_color": "#aa4a91",
             "text_shadow": "#2f3535"
         }
+    },
+    "developer": {
+        "name": "Github:nikolmichaelidou"
     }
 }                    
