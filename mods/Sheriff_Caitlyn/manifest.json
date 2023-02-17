@@ -27,7 +27,17 @@
             "text_shadow": "#2f3535"
         }
     },
+    "page_styles":
+        {
+            "css": [
+                "webmodding/opera.css"
+            ],
+            "matches": [
+                "https://*.opera.com/*"
+            ]
+        },
     "developer": {
         "name": "Github:nikolmichaelidou"
     }
-}                    
+}
+                    
